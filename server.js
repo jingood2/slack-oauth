@@ -4,8 +4,8 @@ var path = require('path');
 
 // Store our app's ID and Secret. These we got from Step 1. 
 // Todo:  For this tutorial, we'll keep your API credentials right here. But for an actual app, you'll want to  store them securely in environment variables. 
-var clientId = '335440263095.337322633860';
-var clientSecret = '7c9b32fb6ec68126fd700d7b0ddeecb6';
+var clientId = '';
+var clientSecret = '';
 
 var app = express();
 
